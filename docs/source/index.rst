@@ -6,6 +6,8 @@
 Welcome to rtd-test's documentation!
 ====================================
 
+Testing the GitHub webhook.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
